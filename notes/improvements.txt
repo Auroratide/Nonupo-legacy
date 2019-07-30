@@ -1,0 +1,3 @@
+Improvements to Nonupo:
+
+Here is one idea.  What if you could dissolve a particular number or sign that you yourself played once every some number of turns?  That would mean that the game more slowly comes to a close... you could be losing but still have a chance to win.

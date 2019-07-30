@@ -1,0 +1,36 @@
+Colors used:
+
+* Blue:    #39C0DB
+* Grey(s): #333333, #444444, #AAAAAA
+
+Things to keep in the back of your mind
+
+
+
+Like I said before, it definitely nails "smooth" overall. But I think you could do more to take it in one of two directions. You could emphasize the competitive nature of the battle of wits implied by the name with music more...I dunno, schemey, or you could keep it kind of neutral and stick to the "thoughtful" idea, so it could feel like a friendly game of chess between two intellects that inspires strategy without ruthlessness. One way or another that's mostly based on your song choice. For going with the competitive feel, take a look at Frozen Synapse and search for its soundtrack on YouTube.
+Wisp: If you wanna keep the nice, thoughtful but not super competitive look, most of your songs already seem to do that, but your interface needs to seem more...smoother. White, corners and edges beveled, font...definitely different...can't guess how, but more formal, but not in a boring way. More "order" overall. You've mostly got it covered with the game's symmetry, but change the "sketch" look to something more clean and shiny with just a couple spots of blue, like the style of your new game button.
+Wisp: Sketch, however, totally works for the competitive style. Something about how kids in school play games on paper all the time.
+Wisp: In which case you could add tally marks by names for win counts, and make the background more paperlike, and change the colors of the buttons to look penned in with ink. Perhaps the buttons are empty white boxes to begin with and the "over" frames display a quick filling-in animation with red or blue ink respectively for the player in control.
+Wisp: That's another thing. Seeing as the current big feature is local multiplayer, you have to emphasize more of a control over the game for whomever's turn it is. What I mean is, wherever there's blue for player 1 while they're on their turn,
+Wisp: change it to red when it's the other guy's go.
+Wisp: Also it would be really cool if when it switched over to their turn,
+Wisp: the music changed to a song that's just a bit different but syncs up with the other player's song so that it switches back and forth when the turns do without much notice.
+Wisp: Like in Fire Emblem with less of a dramatic "bad guy's turn, good guy's turn" emphasis.
+Wisp: The two pieces would need to be contrasting, but not too much where one is clearly bad or unequal in some way. Unless you went with the competitive theme, in which case it would totally make sense to have the red player's theme be a little deeper and darker and sinister.
+Wisp: Don't worry, that's it for now.
+Ardeol: tl;dr
+Ardeol: jk
+Wisp: That had me so freaking out for a second.
+Wisp is not amused.
+Wisp: >:I
+Wisp: Okay it was a little funny.
+Ardeol: I need to copy and paste this
+Wisp: But yeah. That's primarily nit-picking, but it's the little things that count.
+Ardeol: It's helpful though; can't say I can follow everything (like the music; that might be hard for me to do), but I'll definitely see about it.
+Wisp: I promise you, if you focus on a couple one-word themes like that and have the whole project reflect them, it shows, and the demographic who'd play this is gonna come outta the wood-works.
+Wisp: At least that's the feel I get. It's not like I've ever had a finished project, but...well, I'd be interested to see how this does when finished, especially if you take some of what I said into consideration.
+Ardeol: I played with my dad, and the strategy seems decent.  What would be incredible is cross-network capabilities
+Ardeol: = impossible right now :(
+Wisp: I know!
+Wisp: Yeah...
+Wisp: But soon.
